@@ -1,4 +1,8 @@
 import React, { Component } from 'react';
+<<<<<<< Updated upstream
+=======
+import Agodit from "../image/Agodit.jpeg";
+>>>>>>> Stashed changes
 
 class Menu extends Component {
     render() {
