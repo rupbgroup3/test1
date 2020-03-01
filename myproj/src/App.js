@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
@@ -20,6 +21,18 @@ function App() {
         </a>
       </header>
     </div>
+=======
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
+import Menu from './Components/Menu';
+
+
+
+function App() {
+  return (
+    <Menu/>
+>>>>>>> Stashed changes
   );
 }
 
