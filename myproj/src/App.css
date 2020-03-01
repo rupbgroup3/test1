@@ -13,7 +13,6 @@
   }
 }
 
-<<<<<<< Updated upstream
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -23,43 +22,6 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-=======
-.header {
-
-  text-align: center;
-    display: block;
-    justify-content: center;
-    align-items: center;
-    margin: auto;
-    height: 10%;
- 
->>>>>>> Stashed changes
-}
-.pic{
-  margin-top: 20px;
-  height: 50px;
-  width: 80px;
-  float: left;
-  margin-left:10px;
-}
-.LogOut{
-  margin-top: 20px;
-  height: 50px;
-  width: 80px;
-  float: left;
-  margin-left:30px;
-}
-.home{
-  margin-top: 20px;
-  height: 50px;
-  width: 80px;
-  float: right;
-  margin-right:10px;
-}
-.Agodit{
-  margin-top: 20px;
-  height: 50px;
-  width: 50px;
 }
 
 .App-link {
